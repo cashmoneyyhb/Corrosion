@@ -4,7 +4,7 @@
   "description": "Corrosion web proxy",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node demo/server.js"
   },
   "dependencies": {
     "express": "^4.18.2"
